@@ -1,0 +1,9 @@
+E:\Visual Studio\C#\WinRing0_Test\WinRing0_Test\obj\Debug\WinRing0_Test.csprojAssemblyReference.cache
+E:\Visual Studio\C#\WinRing0_Test\WinRing0_Test\obj\Debug\WinRing0_Test.Form1.resources
+E:\Visual Studio\C#\WinRing0_Test\WinRing0_Test\obj\Debug\WinRing0_Test.Properties.Resources.resources
+E:\Visual Studio\C#\WinRing0_Test\WinRing0_Test\obj\Debug\WinRing0_Test.csproj.GenerateResource.cache
+E:\Visual Studio\C#\WinRing0_Test\WinRing0_Test\obj\Debug\WinRing0_Test.csproj.CoreCompileInputs.cache
+E:\Visual Studio\C#\WinRing0_Test\WinRing0_Test\bin\Debug\WinRing0_Test.exe
+E:\Visual Studio\C#\WinRing0_Test\WinRing0_Test\bin\Debug\WinRing0_Test.pdb
+E:\Visual Studio\C#\WinRing0_Test\WinRing0_Test\obj\Debug\WinRing0_Test.exe
+E:\Visual Studio\C#\WinRing0_Test\WinRing0_Test\obj\Debug\WinRing0_Test.pdb
